@@ -9,11 +9,11 @@
 <h2 align="left">About me</h2>
 
 
-<div display="flex">
+<div style="display: flex;">
   <p align="left">✨ 📚 I'm currently learning dev web languages <br>🎯 Goals: mundial domination<br>🎲 Fun fact: i'm japanese</p>
 
   <div>
-<img height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWg1b2pudDBydnI1bmc3MXJvMjYzdGoybGJ0b3IzNWJ6bXhveGRpdSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RBIwm8rlA2Fy1CG5xa/giphy.gif"  />
+<img height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ym55NWxtNmttb2hiYThjaGl3eGx2MWxnaHBxdzJ3OW00MHVlYmowdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jWijpNuv0SBIsbkth1/giphy.gif"  />
 </div>
 </div>
 
