@@ -1,12 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is Nicholas and I'm a fullstack dev, from Brazil</p>
+<p align="center">My name is Nicholas and I'm a fullstack dev, from Brazil</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 
 <div style="display: flex;">
