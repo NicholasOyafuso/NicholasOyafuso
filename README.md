@@ -13,7 +13,10 @@
   <p align="center">✨ 📚 I'm currently learning dev web languages <br>🎯 Goals: mundial domination<br>🎲 Fun fact: i'm japanese</p>
 
   <div>
-<img height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ym55NWxtNmttb2hiYThjaGl3eGx2MWxnaHBxdzJ3OW00MHVlYmowdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jWijpNuv0SBIsbkth1/giphy.gif"  />
+<img height="50" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ym55NWxtNmttb2hiYThjaGl3eGx2MWxnaHBxdzJ3OW00MHVlYmowdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jWijpNuv0SBIsbkth1/giphy.gif"  />
+</div>
+<div>
+  <img height="50" scr="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ4NG5vcWR1cjgyc3cyb3A3YTk4NDFqdDRpaDRjc2lvZTUydW5mYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ia0sMsvTBUQYb59SjK/giphy.gif"/>
 </div>
 </div>
 
