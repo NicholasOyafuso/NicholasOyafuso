@@ -13,11 +13,11 @@
   <p align="center">✨ 📚 I'm currently learning dev web languages <br>🎯 Goals: mundial domination<br>🎲 Fun fact: i'm japanese</p>
 
   <div  align="center">
-<img height="220" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Ym55NWxtNmttb2hiYThjaGl3eGx2MWxnaHBxdzJ3OW00MHVlYmowdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jWijpNuv0SBIsbkth1/giphy.gif"  />
-  <img height="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWJ4NG5vcWR1cjgyc3cyb3A3YTk4NDFqdDRpaDRjc2lvZTUydW5mYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u4tXnIkMYNI1zKlbrW/giphy.gif" />
-  <img height="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZuNzRsaWdpajVmZmVkdXA2NnV1bWhtcGFna3lucWtpdDB3djk0dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a6pzK009rlCak/giphy.gif"/>
-<img height="240" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWlndG8wMXJ2bTFoZ3o0azd4MGljdjFieDJoa2Ryc3AyY2hmeDVjMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ObmyUkARRmak/giphy.gif"/>
-
+<img height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZzYnQwd2g3eXVwY2szOWprNm85cGZtbDYxZWRiNTV5OGduZ2p1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LX0o9BYKg0rKIgFw8l/giphy.gif"  />
+  <img height="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZzYnQwd2g3eXVwY2szOWprNm85cGZtbDYxZWRiNTV5OGduZ2p1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YK1u5d1KSqrwIJojSt/giphy.gif" />
+  <img height="240" src="hhttps://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmo1OGRwM2loc2RxcDN2ZnZydmVoeTZvNWszNmNxMWN3bzk3bTlueiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gC8JUYQDnuspgNmpfK/giphy.gif"/>
+<img height="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZzYnQwd2g3eXVwY2szOWprNm85cGZtbDYxZWRiNTV5OGduZ2p1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h22mfPY17lVed1BUG5/giphy.gif"/>
+<img height="240" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZzYnQwd2g3eXVwY2szOWprNm85cGZtbDYxZWRiNTV5OGduZ2p1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R53jUjenQFp8AvnzJs/giphy.gif"/>
 </div>
 
 </div>
